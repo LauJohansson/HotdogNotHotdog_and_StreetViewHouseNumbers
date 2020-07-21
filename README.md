@@ -25,7 +25,7 @@ The goal is to:
 
 
 
-Look at the implemented model [here](https://github.com/LauJohansson/GAN_Horse2Zebra_and_MNIST/blob/master/Simple_GAN_MNIST.ipynb)
+Look at the implemented model [here](https://github.com/LauJohansson/HotdogNotHotdog_and_StreetViewHouseNumbers/blob/master/Detect_housenumbers_slidingwindow.ipynb)
 
 ![alt text](https://raw.githubusercontent.com/LauJohansson/HotdogNotHotdog_and_StreetViewHouseNumbers/master/Sliding_window_result.png?raw=true)
 
